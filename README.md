@@ -1,9 +1,10 @@
-# Boas vindas ao meu perfil ❤💖
-Meu nome é Vitor Augusto
+# Oiiii tenham uma boas vindas ao meu perfil aqui nio GitHub❤💖
 
-Estou estudando na Alura e estou ampliando minhas habilidades e aprendendo também no javascript 🐰
+•Meu nome é Vitor Augusto
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+•Estou estudando na Alura e estou ampliando minhas habilidades e aprendendo também no javascript 🐰
+
+•Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 Você pode entrar em contato comigo pelo e-mail abaixo ⤵
 
